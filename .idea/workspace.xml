@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="609b8a1f-3a87-4cf8-9949-488c73c06b9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blog/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/blog/tests.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,14 +84,30 @@
       <option name="presentableId" value="Default" />
       <updated>1580794485033</updated>
       <workItem from="1580794486294" duration="694000" />
-      <workItem from="1580796231668" duration="887000" />
+      <workItem from="1580796231668" duration="1556000" />
     </task>
+    <task id="LOCAL-00001" summary="updates tests.py">
+      <created>1580800403926</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1580800403926</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="updates tests.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="updates tests.py" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="401" y="65" key="CommitChangelistDialog2" timestamp="1580800403836">
+      <screen x="0" y="36" width="1600" height="864" />
+    </state>
+    <state x="401" y="65" key="CommitChangelistDialog2/0.36.1600.864/1600.0.1366.768@0.36.1600.864" timestamp="1580800403836" />
     <state x="587" y="228" key="FileChooserDialogImpl" timestamp="1580795178978">
       <screen x="0" y="36" width="1600" height="864" />
     </state>

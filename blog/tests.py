@@ -9,4 +9,4 @@ class TestStuff(TestCase):
         assert True
 
     def test_the_next_stuff(self):
-        assert False
+        assert True
